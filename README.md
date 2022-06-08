@@ -1,2 +1,2 @@
 # Springboot-jokesapp
-Jokes app with spring boot
+Chuck norris jokes basic html web app.
